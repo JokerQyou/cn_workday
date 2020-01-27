@@ -16,7 +16,7 @@ for dirpath, dirnames, filenames in os.walk(os.path.join('cn_workday', 'data')):
 
 setuptools.setup(
     name='cn_workday',
-    version='2020.01.14.2',
+    version='2020.01.27.1',
     author='Joker Qyou',
     description='Workday detection for China',
     long_description=long_description,
